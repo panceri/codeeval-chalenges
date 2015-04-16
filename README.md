@@ -1,4 +1,4 @@
-# codeeval-chalenges
+# codeeval-challenges
 Some challenges from https://www.codeeval.com
 
 * challenge.rb  - https://www.codeeval.com/open_challenges/104/ (100%)
