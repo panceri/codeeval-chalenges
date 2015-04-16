@@ -3,5 +3,5 @@ myfile.each_line do |line|
    line.chomp!
    next if line.empty?
    first, last = line.split(" ") 
-   puts "#{last} #{first}"
+   puts  "#{last} #{first}"
 end
