@@ -1,5 +1,5 @@
 # codeeval-chalenges
-Some chalenges from https://www.codeeval.com
+Some challenges from https://www.codeeval.com
 
 * challenge.rb  - https://www.codeeval.com/open_challenges/104/ (100%)
 * challenge1.rb - https://www.codeeval.com/open_challenges/97/  (100%)
