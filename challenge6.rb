@@ -7,5 +7,4 @@ myfile.each_line do |line|
      phrase.gsub!(char, "")
    end
    puts phrase.chomp
-
 end
