@@ -9,3 +9,4 @@ Some challenges from https://www.codeeval.com
 * challenge5.rb - https://www.codeeval.com/open_challenges/131/ (100%)
 * challenge6.rb - https://www.codeeval.com/open_challenges/13/  (100%)
 * challenge7.rb - https://www.codeeval.com/open_challenges/172/ (100%)
+* challenge8.rb - https://www.codeeval.com/open_challenges/34/  (100%)
