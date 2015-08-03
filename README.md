@@ -11,4 +11,5 @@ Some challenges from https://www.codeeval.com
 * challenge7.rb - https://www.codeeval.com/open_challenges/172/ (100%)
 * challenge8.rb - https://www.codeeval.com/open_challenges/34/  (100%)
 * challenge9.rb - https://www.codeeval.com/open_challenges/156/ (100%)
-* challente10.rb - https://www.codeeval.com/open_challenges/45/ (100%)
+* challenge10.rb - https://www.codeeval.com/open_challenges/45/ (100%)
+* challenge11.rb - https://www.codeeval.com/open_challenges/100/ (100%)
